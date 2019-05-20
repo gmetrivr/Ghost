@@ -4,3 +4,6 @@
 [submodule "core/client"]
 	path = core/client
 	url = ../../TryGhost/Ghost-Admin.git
+[submodule "content/themes/ghost-teaxr"]
+	path = content/themes/ghost-teaxr
+	url = git@github.com:gmetrivr/ghost-teaxr.git

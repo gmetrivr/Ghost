@@ -102,7 +102,7 @@ projectFilesBackup
 /content/logs/*
 /content/settings/*
 /content/apps/**/*
-/content/themes/**/*
+# /content/themes/**/*
 /content/images/**/*
 /content/adapters/storage/**/*
 /content/adapters/scheduling/**/*
